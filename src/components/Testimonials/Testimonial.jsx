@@ -30,7 +30,7 @@ const Testimonial = () => {
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Aanand Sharma's Web Development Services came highly recommended, and they did not disappoint. He took the time to understand our business goals and tailor their approach accordingly. The result was a website that not only looks great but also drives tangible results for our business. We appreciated his expertise and commitment to delivering a high-quality product.",
     },
   ];
 

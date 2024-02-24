@@ -20,7 +20,7 @@ const Testimonial = () => {
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Aanand Sharma is an incredibly talented web developer. He was able to take my vague ideas and turn them into a beautifully designed and functional website. His attention to detail and willingness to go the extra mile truly set him apart. I will definitely be working with John again in the future.",
     },
     {
       img: profilePic3,

@@ -25,11 +25,11 @@ const Services = () => {
       <div className="awesome">
         {/* dark mode */}
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
-        <span>services</span>
+        <span>Services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
+          Here is a brief about all the services that I provide.
           <br />
-          ispum is simpley dummy text of printing
+          Please have a look.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
@@ -72,7 +72,7 @@ const Services = () => {
             emoji={Humble}
             heading={"UI/UX"}
             detail={
-              "Lorem ispum dummy text are usually use in section where we need some random text"
+              "User Interfaces and User Experience pages are my speciality in making"
             }
             color="rgba(252, 166, 31, 0.45)"
           />

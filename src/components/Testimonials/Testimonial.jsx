@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "I had a fantastic experience working with this company. They were attentive to my needs, communicated effectively throughout the process, and delivered a stunning website that exceeded my expectations. I highly recommend their services.",
+        "I had a fantastic experience working with Anand. He was attentive to my needs, communicated effectively throughout the process, and delivered a stunning website that exceeded my expectations. I highly recommend his services.",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Anand Sharma is an incredibly talented web developer. He was able to take my vague ideas and turn them into a beautifully designed and functional website. His attention to detail and willingness to go the extra mile truly set him apart. I will definitely be working with Anand again in the future.",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Anand Sharma is an absolute pleasure to work with. He is not only skilled in web development but also has a keen eye for design. He was able to incorporate all of my requests into the website while offering valuable suggestions along the way. I highly recommend Anand for any web development project.",
     },
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "Anand Sharma's Web Development Services came highly recommended, and they did not disappoint. He took the time to understand our business goals and tailor their approach accordingly. The result was a website that not only looks great but also drives tangible results for our business. We appreciated his expertise and commitment to delivering a high-quality product.",
     },
   ];
 
